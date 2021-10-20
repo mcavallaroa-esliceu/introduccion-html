@@ -1,0 +1,47 @@
+td{
+    border: solid rgb(214, 0, 0);
+    font-size: 100px;
+    color: white;
+
+}
+td.top{
+    border-top: 0px;
+    border-bottom: 0px;
+ 
+}
+td.dreta{
+    border-right: 0px;
+}
+#dreta{
+    border-right: 0px;
+    border-left: 0px;
+}
+td.bottom{
+    border-bottom: 0px;
+}
+#bottom{
+    border-bottom: 0px;
+    border-top: 0px;
+    border-left: 0px;
+}
+td.left{
+    border-left: 0px;
+}
+#leftb{
+    border-left: 0px;
+    border-top: 0px;
+    border-right: 0px;
+}
+#leftt{
+    border-left: 0px;
+    border-right: 0px;
+}
+#center{
+    border-right: 0px;
+}
+#centerd{
+    border-left: 0px;
+}
+#centerb{
+    border-top: 0px;
+}

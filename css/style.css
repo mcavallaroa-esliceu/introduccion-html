@@ -86,11 +86,7 @@ table a{
    #menu ul li:hover > ul {
     display:block;
    }
-   table, th, td, tr {
-       border: 2px #2b2b2b solid;
-       color: #2b2b2b;
-       background-color: rgb(255, 255, 255);
-   }
+ 
    .servei {
        background-color: chartreuse;
    }
