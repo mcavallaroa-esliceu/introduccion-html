@@ -3,11 +3,7 @@ td{
     color:#2f8ee7;
     border: 1px solid rgb(0, 203, 230);
     }
-a{
-    padding:5px;
-    margin:5px;
-    border:5px solid;    
-    }
+
 
 table a{
     padding: 5px;
@@ -102,3 +98,34 @@ table a{
    .app {
        background-color: indianred;
    }
+   nav.links{
+    list-style: none;
+    background-color: rgb(62, 50, 107);
+    text-align: center;
+}
+ul.menu{
+    background-color: orangered;
+    list-style: none;
+    display: inline-block;
+}
+ul.menu li{
+    float: left;
+    margin: 15px;
+    padding: 5px;
+}
+ul.menu li a {
+    color: rgb(0, 248, 54);
+    text-decoration: none;
+    font-size: 20px;
+ }
+ul.menu li a:hover{
+    color: seashell;
+}
+table.horari{ 
+    margin-top: 50px;
+    font-size: 35px;
+    border-color: seashell;
+    border-spacing: 0px;
+    text-align: center;
+
+}
